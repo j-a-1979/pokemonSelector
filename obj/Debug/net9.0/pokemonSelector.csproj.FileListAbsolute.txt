@@ -1,0 +1,15 @@
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\bin\Debug\net9.0\pokemonSelector.exe
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\bin\Debug\net9.0\pokemonSelector.deps.json
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\bin\Debug\net9.0\pokemonSelector.runtimeconfig.json
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\bin\Debug\net9.0\pokemonSelector.dll
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\bin\Debug\net9.0\pokemonSelector.pdb
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\pokemonSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\pokemonSelector.AssemblyInfoInputs.cache
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\pokemonSelector.AssemblyInfo.cs
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\pokemonSelector.csproj.CoreCompileInputs.cache
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\pokemonSelector.sourcelink.json
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\pokemonSelector.dll
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\refint\pokemonSelector.dll
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\pokemonSelector.pdb
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\pokemonSelector.genruntimeconfig.cache
+C:\Users\jarro\Desktop\j-a\repos\pokemonSelector\pokemonSelector\obj\Debug\net9.0\ref\pokemonSelector.dll
